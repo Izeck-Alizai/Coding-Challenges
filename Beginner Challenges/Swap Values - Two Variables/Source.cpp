@@ -3,7 +3,7 @@ using namespace std;
 
 int main(void)
 {
-    int var1 = 5, var2 = 10;
+    int var1 = 45, var2 = 20;
 
     cout << "Var1 Before: " << var1;
     cout << endl;
